@@ -14,7 +14,7 @@ An offline patch and modern compatibility release (Android 15 support, mission p
 ### 🏎️ [DrawRace 2 - Offline Patch](https://github.com/Geper23/DrawRace2-Offline)
 Custom patched build and offline fix for *DrawRace 2*, restoring playability and bypassing discontinued server dependencies on modern hardware.
 - 🛠️ **Tech:** Android / Game Patching / Reverse Engineering
-- 🔗 **Repo:** [View Repository](https://github.com/Geper23/DrawRace2-Offline)](https://github.com/Geper23/DrawRace-2-offline-2026-android-15-test/releases/tag/0.2.7)
+- 📦 **Latest Release:** [DrawRace2 Offline](https://github.com/Geper23/DrawRace2-Offline)](https://github.com/Geper23/DrawRace-2-offline-2026-android-15-test/releases/tag/0.2.7)
 
 ---
 
