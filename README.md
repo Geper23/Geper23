@@ -6,7 +6,7 @@ I build custom tools, game modifications, reverse-engineering utilities, and off
 
 ## 🚀 Main Projects
 
-### 🪖 [Call of Victory - Offline](https://github.com/Geper23/Call-of-Victory-offline)
+###    [Call of Victory - Offline](https://github.com/Geper23/Call-of-Victory-offline)
 An offline patch and modern compatibility release (Android 15 support, mission progress saving, local save persistence) for the classic WWII strategy game *Call of Victory*.
 - 🛠️ **Tech:** Android / APK Modding / Reverse Engineering
 - 📦 **Latest Release:** [CoV Offline V21](https://github.com/Geper23/Call-of-Victory-offline/releases)](https://github.com/Geper23/Call-of-Victory-offline/releases/tag/v21)
