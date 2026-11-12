@@ -6,15 +6,20 @@ I build custom tools, game modifications, reverse-engineering utilities, and off
 
 ## 🚀 Main Projects
 
-###    [Call of Victory - Offline](https://github.com/Geper23/Call-of-Victory-offline)
+### 🔥 [Death Dome Revival](https://github.com/Geper23/Death-Dome-Revival)
+An independent preservation project bringing the classic combat game back to life on modern Android devices with API and compatibility fixes.
+- 🛠️ **Tech:** Android / Unity / APK Modding / Reverse Engineering
+- 📦 **Latest Release:** [Death Dome Revival Releases](https://github.com/Geper23/Death-Dome-Revival/releases)
+
+### 🎖️ [Call of Victory - Offline](https://github.com/Geper23/Call-of-Victory-offline)
 An offline patch and modern compatibility release (Android 15 support, mission progress saving, local save persistence) for the classic WWII strategy game *Call of Victory*.
 - 🛠️ **Tech:** Android / APK Modding / Reverse Engineering
-- 📦 **Latest Release:** [CoV Offline V21](https://github.com/Geper23/Call-of-Victory-offline/releases)](https://github.com/Geper23/Call-of-Victory-offline/releases/tag/v21)
+- 📦 **Latest Release:** [CoV Release v23](https://github.com/Geper23/Call-of-Victory-offline/releases/tag/v23)
 
-### 🏎️ [DrawRace 2 - Offline Patch](https://github.com/Geper23/DrawRace2-Offline)
-Custom patched build and offline fix for *DrawRace 2*, restoring playability and bypassing discontinued server dependencies on modern hardware.
+### 🏎️ [DrawRace 2 - Offline Patch](https://github.com/Geper23/DrawRace-2-offline-2026-android-15-test)
+Custom patched build and offline fix for *DrawRace 2*, restoring playability and bypassing discontinued server dependencies on Android 15.
 - 🛠️ **Tech:** Android / Game Patching / Reverse Engineering
-- 📦 **Latest Release:** [DrawRace2 Offline](https://github.com/Geper23/DrawRace2-Offline)](https://github.com/Geper23/DrawRace-2-offline-2026-android-15-test/releases/tag/0.2.7)
+- 📦 **Latest Release:** [DrawRace 2 Offline v0.2.7](https://github.com/Geper23/DrawRace-2-offline-2026-android-15-test/releases/tag/0.2.7)
 
 ---
 
