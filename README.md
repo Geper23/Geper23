@@ -6,6 +6,11 @@ I build custom tools, game modifications, reverse-engineering utilities, and off
 
 ## 🚀 Main Projects
 
+### ⚔️ [Blood & Glory Revival](https://github.com/Geper23/Blood-Glory-Revival)
+An unofficial preservation and compatibility project bringing the classic Glu Mobile gladiatorial combat game *BLOOD & GLORY (1.1.6)* back to life on Android 15.
+- 🛠️ **Tech:** Android / Unity / APK Modding / Reverse Engineering
+- 📦 **Latest Release:** [Blood & Glory Revival V5](https://github.com/Geper23/Blood-Glory-Revival/releases)
+
 ### 🔥 [Death Dome Revival](https://github.com/Geper23/Death-Dome-Revival)
 An independent preservation project bringing the classic combat game back to life on modern Android devices with API and compatibility fixes.
 - 🛠️ **Tech:** Android / Unity / APK Modding / Reverse Engineering
